@@ -1,0 +1,19 @@
+{
+  "name": "jquery.tumap",
+  "version": "1.0.0",
+  "description": "TicketUtils Venue Map",
+  "main": "lib/jquery.tuMap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanxchange/jquery.tuMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanxchange/jquery.tuMap/issues"
+  },
+  "homepage": "https://github.com/fanxchange/jquery.tuMap#readme"
+}
